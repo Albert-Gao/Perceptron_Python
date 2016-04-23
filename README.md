@@ -10,3 +10,4 @@ It has 3 steps:
 
 TIPS:
 The test data is based on the original data.
+It has a comprehensive debug info which will show you how it works.
